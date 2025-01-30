@@ -1,6 +1,7 @@
-# Ideas
+![image](https://github.com/user-attachments/assets/b4dfffa6-4170-4c9b-a61d-4827c08aef31)
+(Name TBD)
 
-### Concept
+### Main Concept
 
 You are a mantis shrimp that has to beat up the snails and crabs that are on your property
 
