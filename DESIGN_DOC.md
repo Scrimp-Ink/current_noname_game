@@ -21,6 +21,11 @@ The basic form of attack will be a basic punch, like how a mantis shrimp attacks
 If you attack just slightly before your opponent, you will miss the attack.
 ### Map
 The whole game will be encompassed in one medium-sized map. There will be many secrets with treasure that the player can collect to encourage exploration.
+
+# Story
+You are Scrimpius Maximus, a mantis shrimp who has recently had his car (an old beat up Toyota Corolla) fail a smog check, and thus the car got confiscated. You have to beat your way up the government's chain of command to ultimately overthrow it and recover your old scrimpbox. 
+The final boss will be the president of the country, a zebra turkeyfish with a chip on his shoulder, a patch on his eye, and the scars to prove it.
+
 # put ideas here
 maybe we could have like a kamehameha attack i think itd be cool - angel
 
